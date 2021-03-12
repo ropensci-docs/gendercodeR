@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "bfdeedca0d2e58cd85c4888ec92b4c0bb21dcd58",
+    "author": "Emily <pc.miss@gmail.com>",
+    "time": "2021-03-12 23:16:42",
+    "files": 3,
+    "merge": false,
+    "message": "Add badges for CI and remove redundant check-release action\n"
+  },
+  "remote": "https://github.com/ropenscilabs/gendercoder",
+  "pkg": "gendercoder"
+}
